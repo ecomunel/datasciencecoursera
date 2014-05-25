@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-'The Data Scientist’s Toolbox' Course Project
+Repository for 'The Data Scientist’s Toolbox' Course on Coursera
