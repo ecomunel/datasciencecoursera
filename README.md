@@ -1,4 +1,5 @@
 datasciencecoursera
 ===================
 
-Repository for 'The Data Scientist’s Toolbox' Course on Coursera
+*This page is used to share activities required by "Data Sciences Courses" on Coursera.*
+
